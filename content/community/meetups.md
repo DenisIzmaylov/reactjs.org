@@ -89,6 +89,10 @@ Do you have a local React.js meetup? Add it here! (Please keep the list alphabet
 ## Poland
 * [Warsaw](http://www.meetup.com/React-js-Warsaw/)
 
+## Russia
+* [Moscow - React.js](https://www.meetup.com/React-Moscow-Meetup/)
+* [Moscow - React Native](https://www.meetup.com/React-Native-Moscow/)
+
 ## Scotland (UK)
 * [Edinburgh](https://www.meetup.com/React-Scotland/)
 
